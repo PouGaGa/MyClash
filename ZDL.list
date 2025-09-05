@@ -1,9 +1,1 @@
-# 内容：自定义外网
-# 域名关键字匹配
-DOMAIN-KEYWORD,namecheap
-DOMAIN-KEYWORD,terabox
-# 域名后缀匹配
-DOMAIN-SUFFIX,freeterabox.com
-DOMAIN-SUFFIX,1024terabox.com
-DOMAIN-SUFFIX,ikuajingx.com
-DOMAIN-SUFFIX,ikuajing.xyz
+
