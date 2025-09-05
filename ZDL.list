@@ -2,4 +2,5 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,namecheap
 # 域名后缀匹配
-DOMAIN-SUFFIX,slowant.com
+# DOMAIN-SUFFIX,slow.com
+
